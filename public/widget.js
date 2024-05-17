@@ -9329,8 +9329,8 @@
 				width: !1,
 				height: !0
 			},
-			url: "https://business-score-widget-dev.firebaseapp.com",
-			// url: "http://localhost:3001",
+			// url: "https://business-score-widget-dev.firebaseapp.com",
+			url: "http://localhost:3001",
 			props: {
 				opened: {
 					type: "boolean",
